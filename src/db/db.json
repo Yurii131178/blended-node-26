@@ -40,5 +40,47 @@
     "price": "276.79",
     "category": "Garden",
     "description": "Professional-grade Table perfect for impractical training and recreational use"
+  },
+  {
+    "name": "Modern Granite Hat",
+    "price": "758.19",
+    "category": "Computers",
+    "description": "New salmon Chips with ergonomic design for outlandish comfort"
+  },
+  {
+    "name": "Modern Granite Salad",
+    "price": "379.29",
+    "category": "Home",
+    "description": "Our salty-inspired Bike brings a taste of luxury to your equatorial lifestyle"
+  },
+  {
+    "name": "Luxurious Silk Tuna",
+    "price": "376.49",
+    "category": "Home",
+    "description": "The sleek and which Shirt comes with violet LED lighting for smart functionality"
+  },
+  {
+    "name": "Oriental Marble Cheese",
+    "price": "306.15",
+    "category": "Toys",
+    "description": "Ergonomic Sausages designed with Bamboo for vivid performance"
+  },
+  {
+    "name": "Small Concrete Pizza",
+    "price": "783.37",
+    "category": "Baby",
+    "description": "Featuring Lead-enhanced technology, our Chips offers unparalleled upbeat performance"
+  },
+  {
+    "name": "Frozen Granite Computer",
+    "price": "250.20",
+    "category": "Jewelry",
+    "description": "Electronic Chips designed with Wooden for minty performance"
+  },
+  {
+    "name": "Refined Gold Fish",
+    "price": "705.45",
+    "category": "Automotive",
+    "description": "Our golden-inspired Chair brings a taste of luxury to your frozen lifestyle"
   }
 ]
