@@ -14,10 +14,8 @@ const getProductsByMinPrice = async (minPrice) => {
   }
 };
 
-const minPrice = 500;
+const minPrice = 300; // return products with price equal to 900 or higher
 getProductsByMinPrice(minPrice).then((result) => {
   console.log(`Products with price >= ${minPrice}:`);
   console.log(result);
 });
-
-// console.log(await getProductsByMinPrice(800));

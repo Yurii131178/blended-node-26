@@ -82,5 +82,89 @@
     "price": "705.45",
     "category": "Automotive",
     "description": "Our golden-inspired Chair brings a taste of luxury to your frozen lifestyle"
+  },
+  {
+    "name": "Awesome Silk Car",
+    "price": "875.39",
+    "category": "Beauty",
+    "description": "Electronic Hat designed with Cotton for defenseless performance"
+  },
+  {
+    "name": "Refined Cotton Chair",
+    "price": "585.38",
+    "category": "Tools",
+    "description": "Stylish Shirt designed to make you stand out with trained looks"
+  },
+  {
+    "name": "Intelligent Wooden Chips",
+    "price": "645.35",
+    "category": "Kids",
+    "description": "Experience the yellow brilliance of our Towels, perfect for pricey environments"
+  },
+  {
+    "name": "Gorgeous Steel Towels",
+    "price": "965.70",
+    "category": "Baby",
+    "description": "Introducing the Tonga-inspired Towels, blending clean style with local craftsmanship"
+  },
+  {
+    "name": "Unbranded Concrete Chips",
+    "price": "456.39",
+    "category": "Sports",
+    "description": "Our fresh-inspired Hat brings a taste of luxury to your energetic lifestyle"
+  },
+  {
+    "name": "Tasty Bronze Chair",
+    "price": "809.39",
+    "category": "Books",
+    "description": "Featuring Xenon-enhanced technology, our Cheese offers unparalleled bruised performance"
+  },
+  {
+    "name": "Ergonomic Aluminum Bacon",
+    "price": "763.29",
+    "category": "Kids",
+    "description": "The Florencio Hat is the latest in a series of babyish products from Adams LLC"
+  },
+  {
+    "name": "Ergonomic Rubber Shoes",
+    "price": "136.49",
+    "category": "Garden",
+    "description": "The sleek and sad Shoes comes with lavender LED lighting for smart functionality"
+  },
+  {
+    "name": "Unbranded Silk Shirt",
+    "price": "179.35",
+    "category": "Tools",
+    "description": "Stylish Hat designed to make you stand out with altruistic looks"
+  },
+  {
+    "name": "Unbranded Rubber Chips",
+    "price": "303.95",
+    "category": "Movies",
+    "description": "New Tuna model with 43 GB RAM, 562 GB storage, and ultimate features"
+  },
+  {
+    "name": "Gorgeous Ceramic Mouse",
+    "price": "165.59",
+    "category": "Clothing",
+    "description": "Discover the snappy new Hat with an exciting mix of Marble ingredients"
+  },
+  {
+    "name": "Refined Rubber Hat",
+    "price": "613.75",
+    "category": "Music",
+    "description": "New Keyboard model with 66 GB RAM, 970 GB storage, and energetic features"
+  },
+  {
+    "name": "Oriental Bamboo Computer",
+    "price": "471.89",
+    "category": "Electronics",
+    "description": "New Cheese model with 29 GB RAM, 38 GB storage, and glass features"
+  },
+  {
+    "name": "Unbranded Ceramic Mouse",
+    "price": "245.50",
+    "category": "Jewelry",
+    "description": "New Tuna model with 20 GB RAM, 384 GB storage, and damaged features"
   }
 ]
